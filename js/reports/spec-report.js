@@ -1,4 +1,6 @@
-
+/*
+coment lineHeight
+*/
 function diagnosisType(data){
 	return Highcharts.chart('diagnosis_container', {
 

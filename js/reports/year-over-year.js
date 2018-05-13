@@ -1,4 +1,6 @@
-
+/*
+coment lineHeight
+*/
 function PlanCostByYear(data){
 console.log(data);
 return Highcharts.chart('year_over_year1', {

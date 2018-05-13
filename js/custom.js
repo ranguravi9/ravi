@@ -11,7 +11,9 @@ if (array[2] == 'localhost') {
 	var staticurl = '/';
 	// var url_action = array[5].split("?")[0];
 }
-
+/*
+coment lineHeight
+*/
 function numberWithCommas(x) {
     return x.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ",");
 }

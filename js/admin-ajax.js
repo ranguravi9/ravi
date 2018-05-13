@@ -12,9 +12,7 @@ if (array[2] == 'localhost') {
 	// var url_action = array[5].split("?")[0];
 }
 
-/*
-coment lineHeight
-*/
+
 function changeemail(id)
 {
 	var url = staticurl+'email-templates?email_type='+id;
